@@ -16,7 +16,7 @@
   },
   "standard-version": {
     "scripts": {
-      "postcommit": "git push && git push --tags"
+      "posttag": "git push && git push --tags"
     }
   },
   "keywords": [
